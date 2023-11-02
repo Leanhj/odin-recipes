@@ -4,6 +4,12 @@ h1 {
     text-align: center;
 }
 
+h2 {
+    background-color: lightgreen;
+    color: black;
+    text-align: center;
+}
+
 .main-list {
     font-size: 20px;
 }
